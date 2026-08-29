@@ -1,62 +1,79 @@
-<div align="center">
+![](assets/svg/background_up.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Helenvin&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%">
+<p align="center">
+    <a href="https://github.com/QYG2297248353/appstore-1panel"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-17-1462ba.svg"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/QYG2297248353/appstore-1panel/graphs/contributors"><img src="https://img.shields.io/github/contributors/QYG2297248353/appstore-1panel?color=blue"></a>
+    <a href="https://github.com/QYG2297248353/appstore-1panel/stargazers"><img src="https://img.shields.io/github/stars/QYG2297248353/appstore-1panel.svg?logo=github"></a>
+    <a href="https://github.com/QYG2297248353/appstore-1panel/network/members"><img src="https://img.shields.io/github/forks/QYG2297248353/appstore-1panel.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=QYG2297248353.appstore-1panel" alt="visitors"/>   
+</p>
 
-<br>
+![](assets/png/background_header.png)
+<a href="https://www.python.org/"><img src="assets/svg/java-no.svg" align="right" height="48" width="48" ></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Helenvin&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6">
+<!--   my-ticker -->
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+%F0%9F%98%89+Ms+Studio!;%E8%90%8C%E6%A3%AE%E5%B7%A5%E4%BD%9C%E5%AE%A4)](https://git.io/typing-svg)
 
-<a href="https://github.com/Helenvin">
-  <img src="https://img.shields.io/badge/GitHub-Helenvin-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://github.com/Helenvin/CF-Navs">
-  <img src="https://img.shields.io/github/stars/Helenvin/CF-Navs?style=for-the-badge&logo=github&label=CF-Navs">
-</a>
+<!--   my-kaggle
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
-</div>
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+-->
 
-<br>
+<!--   my-skils -->
 
-<div align="center">
+| Property              | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language / IDE**    | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=OpenJDK&logoColor=white) ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-3776AB?style=flat&logo=SpringBoot&logoColor=white) ![Intell IDEA Badge](https://img.shields.io/badge/-IDEA-3776AB?style=flat&logo=IntelliJIDEA&logoColor=white)                                                                                                                                                                                   |
+| **Domain Knownledge** | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) |
+| **CI / CD**           | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/QYG2297248353/appstore-1panel) [![Gitea Badge](https://img.shields.io/badge/-Gitea%20-2088FF?style=flat&logo=Gitea&logoColor=white)](https://git.lifebus.top/Ms-Studio/appstore-1panel) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/QYG2297248353/appstore-1panel)                                                                                                 |
+| **Databases**         | ![MySQL Badge](https://img.shields.io/badge/-MySQL-3776AB?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-3776AB?style=flat&logo=PostgreSQL&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQLite-3776AB?style=flat&logo=SQLite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **OS**                | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" style="height: 25px;" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Tools & Platform**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![1Panel](https://img.shields.io/badge/1Panel-1572B6?style=for-the-badge&logo=1Panel&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-1572B6?style=for-the-badge&logo=AlibabaCloud&logoColor=white) ![CloudFlare](https://img.shields.io/badge/CloudFlare-1572B6?style=for-the-badge&logo=CloudFlare&logoColor=white)                                                                                                                                                                        |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Helenvin&show_icons=true&theme=transparent&hide_border=true&locale=cn">
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=QYG2297248353&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" 
+        alt="GitHub 统计" 
+        style="height: 180px; border: none; object-fit: cover;"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=QYG2297248353&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" 
+        alt="最常用的编程语言" 
+        style="height: 180px; border: none; object-fit: cover;"
+      />
+  </div>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenvin&layout=compact&theme=transparent&hide_border=true&locale=cn">
+#### Contribution Graph
 
-</div>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<br>
 
-<div align="center">
+**📫 How to Reach me:**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Helenvin&theme=github-compact&hide_border=true&area=true">
+<p align="left">
+<a href="https://twitter.com/ms2297248353" target="blank"><img align="center" src="assets/svg/twitter.svg" alt="QYG2297248353" height="30" width="30" /></a>
+<a href="mailto:qyg2297248353@gmail.com" target="blank"><img align="center" src="assets/svg/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
 
-</div>
+#### Thanks for visiting :heart:
 
-<br>
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/QYG2297248353/count.svg">
 
-<div align="center">
 
-<a href="https://github.com/Helenvin/CF-Navs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Helenvin&repo=CF-Navs&theme=transparent&hide_border=true">
-</a>
+#### Star History
 
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=QYG2297248353/appstore-1panel&type=Date)](https://star-history.com/#QYG2297248353/appstore-1panel&Date)
 
-<br>
+</br>
 
-<div align="center">
-
-<img src="https://api.star-history.com/svg?repos=Helenvin/CF-Navs&type=Date&theme=light" width="90%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer">
-
-</div>
+![](assets/svg/backgrount_down.svg)
