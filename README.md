@@ -1,7 +1,4 @@
-![](assets/svg/background_up.svg)
 
-<p align="center">
-    <img src="https://img.shields.io/github/forks/Helenvin/CF-Navs?style=for-the-badge&logo=github&label=Forks">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Helenvin&style=for-the-badge&color=blueviolet&label=访问量">
 </p>
@@ -57,10 +54,6 @@
 ![](assets/svg/backgrount_down.svg)
 
 ---
-
-<p align="center">
-  版本更新 · <a href="https://github.com/Helenvin/CF-Navs">Helenvin/CF-Navs</a>
-</p>
 
 <p align="center">
   本主页视觉结构参考开源模板 · <a href="https://github.com/QYG2297248353/QYG2297248353">出处</a>
