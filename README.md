@@ -1,8 +1,4 @@
 
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Helenvin&style=for-the-badge&color=blueviolet&label=访问量">
-</p>
-
 ![](assets/png/background_header.png)
 
 <p align="center">
@@ -13,13 +9,8 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| **常用技术** | JavaScript、TypeScript、Svelte、HTML、CSS |
 | **操作系统** | <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"> |
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Helenvin&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=cn" alt="GitHub 统计">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenvin&layout=compact&theme=transparent&hide_border=true&locale=cn" alt="常用语言">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Helenvin&theme=github-compact&hide_border=true&area=true" alt="贡献活动图">
@@ -41,11 +32,6 @@
 
 ## CF-Navs
 
-<p align="center">
-  <a href="https://github.com/Helenvin/CF-Navs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helenvin&repo=CF-Navs&theme=transparent&hide_border=true" alt="CF-Navs">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=Helenvin/CF-Navs&type=Date&theme=light" alt="Star History">
