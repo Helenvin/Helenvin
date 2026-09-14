@@ -1,7 +1,4 @@
 
-![](assets/png/background_header.png)
-
-<p align="center">
 
 
 <p align="center">
