@@ -3,8 +3,6 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=%E5%B0%8F%E7%99%BD%E5%AD%A6%E4%B9%A0%E4%B8%AD)](https://git.io/typing-svg)
-
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D 贡献图">
