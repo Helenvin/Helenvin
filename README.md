@@ -5,11 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=%E5%B0%8F%E7%99%BD%E5%AD%A6%E4%B9%A0%E4%B8%AD)](https://git.io/typing-svg)
 
-</p>
-
-| 项目 | 内容 |
-| --- | --- |
-| **操作系统** | <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"> |
 
 
 <p align="center">
@@ -30,17 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=Helenvin&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views">
 </p>
 
-## CF-Navs
-
 
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=Helenvin/CF-Navs&type=Date&theme=light" alt="Star History">
 </p>
 
 ![](assets/svg/backgrount_down.svg)
-
----
-
-<p align="center">
-  本主页视觉结构参考开源模板 · <a href="https://github.com/QYG2297248353/QYG2297248353">出处</a>
-</p>
